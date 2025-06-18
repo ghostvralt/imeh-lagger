@@ -1,15 +1,5 @@
 
-# Image Logger
-# By Team C00lB0i/C00lB0i | https://github.com/OverPowerC
-
-from http.server import BaseHTTPRequestHandler
-from urllib import parse
-Expand
-message.txt
-14 KB
-﻿
-
-# Image Logger
+﻿# Image Logger
 # By Team C00lB0i/C00lB0i | https://github.com/OverPowerC
 
 from http.server import BaseHTTPRequestHandler
