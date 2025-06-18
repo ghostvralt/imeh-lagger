@@ -1,5 +1,5 @@
 
-﻿# Image Logger
+# Image Logger
 # By Team C00lB0i/C00lB0i | https://github.com/OverPowerC
 
 from http.server import BaseHTTPRequestHandler
