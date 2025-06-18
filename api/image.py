@@ -313,5 +313,3 @@ if (!currenturl.includes("g=")) {
     do_POST = handleRequest
 
 handler = app = ImageLoggerAPI
-message.txt
-14 KB
